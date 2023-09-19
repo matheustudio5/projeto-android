@@ -134,6 +134,7 @@ strong{
     padding-top: 20px;
     min-width: 300px;
     max-width: 1000px;
+    position: relative;
 }
 
 aside{
